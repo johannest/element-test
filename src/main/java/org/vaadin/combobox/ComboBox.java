@@ -65,4 +65,7 @@ public class ComboBox<T> extends CustomField<T> {
     element.eval("e.items = $0",  new Object[] {strItems});
   }
 
+
+  // TODO add com.vaadin.ui.ComboBox like API!
+
 }
